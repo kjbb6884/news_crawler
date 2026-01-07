@@ -14,7 +14,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/YOUR_USERNAME/news_crawler.git
+git clone https://github.com/kjbb6884/news_crawler.git
 cd news_crawler
 ```
 
